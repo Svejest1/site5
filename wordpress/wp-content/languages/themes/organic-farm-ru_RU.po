@@ -1,0 +1,1102 @@
+# Translation of Themes - Organic Farm in Russian
+# This file is distributed under the same license as the Themes - Organic Farm package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-07 07:57:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.9\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Organic Farm\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Organic Farm is ideal for environment website, like a website for ecology preserving movement, Green Earth organization, any sort of organic life project, animals saving fundraiser. Also, suitable for naturopathy, natural and organic medicinal herbs, organic juice stall, Organic compound, organic vegetable farming, organic vegetable wholesaler, grocery store, supermarket, organic shop herbal tea, Organic Health Supplements, Organic Body & Skincare Products, exotic fruits, organic tea, organic products and food, Organic Vegetable Seeds, Organic Fruits Grower, medicines, pharmacy, animal feed, Organic meat, dairy, eggs, Organic Health Supplements, Organic Farming, Organic Kitchen Garden, Organic Snack Bar, Organic Homemade Fertilizer, agricultural products, agri based foods, food packaging industry, nature conservation, environmental naturo eco social group websites and other types of nature related websites. This multipurpose theme has a minimal and elegant design which everybody likes. You get ample of customization and personalization options with this theme. It has optimized codes which is the reason of faster page load times. The responsive layout fits in all devices screens. Based on bootstrap framework which makes it run smoothly. You have the option of adding shortcodes to increase the functionality of your website. Also, it is SEO – friendly to help your website rank easily on search engines."
+msgstr "Organic Farm идеально подходит для сайта об окружающей среде, например, для сайта движения по сохранению экологии, организации Green Earth, любого проекта по органической жизни, сбора средств для спасения животных. Также, подходит для натуропатии, натуральных и органических лекарственных трав, ларька органических соков, органического соединения, органического овощеводства, оптового продавца органических овощей, продуктового магазина, супермаркета, органического магазина травяного чая, органических добавок для здоровья, органических продуктов для тела и кожи; Средства по уходу за кожей, экзотические фрукты, органический чай, органические продукты питания, органические семена овощей, органические фрукты, лекарства, аптека, корма для животных, органическое мясо, молоко, яйца, органические добавки для здоровья, органическое земледелие, органический сад, органические закусочные, органические удобрения, сельскохозяйственная продукция, продукты питания на основе сельского хозяйства, упаковка продуктов питания, охрана природы, экологические сайты натуро-эко социальных групп и другие типы сайтов, связанных с природой. Эта многоцелевая тема имеет минимальный и элегантный дизайн, который нравится всем. Эта тема предоставляет широкие возможности настройки и персонализации. Она имеет оптимизированные коды, что является причиной более быстрой загрузки страниц. Отзывчивый макет подходит для экранов всех устройств. Основана на фреймворке bootstrap, что обеспечивает плавную работу. У вас есть возможность добавить шорткоды, чтобы увеличить функциональность вашего сайта. Кроме того, он является SEO-дружественным, что поможет вашему сайту легко ранжироваться в поисковых системах."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Organic Farm"
+msgstr "Organic Farm"
+
+#: inc/customizer.php:1006
+msgid "Add Email Icon"
+msgstr "Добавить значок email"
+
+#: inc/customizer.php:788
+msgid "Change the Single  post layout from below options"
+msgstr "Измените разметку одной записи из предложенных вариантов ниже"
+
+#: inc/customizer.php:787
+msgid "Archieve Post Structure"
+msgstr "Структура архивной записи"
+
+#: inc/customizer.php:682
+msgid "Left Sidebar"
+msgstr "Левая область виджетов"
+
+#: inc/customizer.php:672
+msgid "select Single Post Page Layout"
+msgstr "выбрать макет отдельной страницы записи"
+
+#: inc/customizer.php:655
+msgid "Single Post Structure"
+msgstr "Структура отдельной записи"
+
+#: inc/customizer.php:320
+msgid "Show Breadcrumb"
+msgstr "Показать навигационную цепочку"
+
+#: inc/customizer.php:297
+msgid "Breadcrumb Settings"
+msgstr "Настройки навигационной цепочки"
+
+#: inc/customizer.php:287
+msgid "Breadcrumb"
+msgstr "Навигационная цепочка"
+
+#: inc/customizer.php:1511 inc/customizer.php:1583
+msgid "Check To show Section"
+msgstr "Отметьте, чтобы скрыть раздел"
+
+#: inc/customizer.php:1324
+msgid "Instagram Settings"
+msgstr "Настройки Instagram"
+
+#: inc/customizer.php:1262
+msgid "Youtube Settings"
+msgstr "Настройки YouTube"
+
+#: inc/customizer.php:1199
+msgid "Facebook Settings"
+msgstr "Настройки Facebook"
+
+#: inc/customizer.php:1160 inc/customizer.php:1222 inc/customizer.php:1285
+#: inc/customizer.php:1347
+msgid "Add URL"
+msgstr "Добавьте URL"
+
+#: inc/customizer.php:1148 inc/customizer.php:1210 inc/customizer.php:1273
+#: inc/customizer.php:1335
+msgid "Add Icon"
+msgstr "Добавить значок"
+
+#: inc/customizer.php:1137
+msgid "Twitter Settings"
+msgstr "Настройки Twitter"
+
+#: inc/customizer.php:812
+msgid "Left sidebar"
+msgstr "Левая область виджетов"
+
+#: inc/customizer.php:678 inc/customizer.php:808
+msgid "Right Sidebar"
+msgstr "Правая область виджетов"
+
+#: inc/customizer.php:621
+msgid " Background color"
+msgstr " Цвет фона"
+
+#: inc/customizer.php:583
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/customizer.php:540
+msgid "Theme Width Settings"
+msgstr "Настройки ширины темы"
+
+#: inc/customizer.php:517
+msgid "Show Related Products"
+msgstr "Показать сопутствующие товары"
+
+#: inc/customizer.php:458
+msgid "Related Product Settings"
+msgstr "Настройки сопутствующих товаров"
+
+#: inc/customizer.php:441 inc/customizer.php:491
+msgid "Display Products"
+msgstr "Отобразить товары"
+
+#: inc/customizer.php:428 inc/customizer.php:478
+msgid "Six Column"
+msgstr "Шесть столбцов"
+
+#: inc/customizer.php:427 inc/customizer.php:477
+msgid "Five Column"
+msgstr "Пять столбцов"
+
+#: inc/customizer.php:426 inc/customizer.php:476
+msgid "four Column"
+msgstr "четыре столбца"
+
+#: inc/customizer.php:420 inc/customizer.php:470
+msgid "Select No of Columns"
+msgstr "Выбрать количество столбцов"
+
+#: inc/customizer.php:408
+msgid "Archieve Product Settings"
+msgstr "Настройки архивирования товаров"
+
+#: inc/customizer.php:342
+msgid "Sidebar Settings"
+msgstr "Настройки области виджетов"
+
+#: inc/customizer.php:199
+msgid "Menu Settings"
+msgstr "Настройки меню"
+
+#: inc/customizer.php:161
+msgid "Loader Settings"
+msgstr "Настройки анимации загрузки"
+
+#: inc/customizer.php:123
+msgid "Sticky Header Settings"
+msgstr "Настройки прилепленного заголовка"
+
+#: inc/customizer.php:632
+msgid " Border Radius"
+msgstr " Скругление рамки"
+
+#: inc/customizer.php:611
+msgid "Slider Button Settings"
+msgstr "Настройка кнопки слайдера"
+
+#: inc/customizer.php:571
+msgid "Other Page Button Settings"
+msgstr "Настройки кнопки Другая страница"
+
+#: inc/customizer.php:332
+msgid "WooCommerce Settings"
+msgstr "Настройки WooCommerce"
+
+#: inc/customizer.php:836
+msgid "Grid Layout"
+msgstr "Макет сетки"
+
+#: inc/customizer.php:824
+msgid "Four Column"
+msgstr "Четыре столбца"
+
+#: inc/customizer.php:425 inc/customizer.php:475 inc/customizer.php:820
+msgid "Three Column"
+msgstr "Три столбца"
+
+#: inc/customizer.php:424 inc/customizer.php:474
+msgid "Two Column"
+msgstr "Два столбца"
+
+#: inc/customizer.php:423 inc/customizer.php:473 inc/customizer.php:686
+#: inc/customizer.php:816
+msgid "One Column"
+msgstr "Один столбец"
+
+#: inc/customizer.php:803
+msgid "select Post Page Layout"
+msgstr "выбрать макет страницы записи"
+
+#: functions.php:239
+msgid "Sidebar 3"
+msgstr "Область виджетов 3"
+
+#: inc/customizer.php:594
+msgid "Border Radius"
+msgstr "Скругление углов"
+
+#: inc/customizer.php:561
+msgid "Button settings"
+msgstr "Настройки кнопки"
+
+#: inc/customizer.php:1619
+msgid "Footer Settings"
+msgstr "Настройки подвала"
+
+#: inc/customizer.php:1116
+msgid "Check to show social fields"
+msgstr "Отметьте, чтобы показать поля соцсетей"
+
+#: inc/customizer.php:1092
+msgid "Social Media Settings"
+msgstr "Настройки соцсетей"
+
+#: inc/customizer.php:966
+msgid "Contact Settings"
+msgstr "Настройки контакта"
+
+#: inc/customizer.php:938
+msgid "show Comment"
+msgstr "показать комментарий"
+
+#: inc/customizer.php:907
+msgid "show Author/Admin"
+msgstr "показать автора/админа"
+
+#: inc/customizer.php:876
+msgid "show Date"
+msgstr "показать дату"
+
+#: inc/customizer.php:393
+msgid "Show Single Product Page Sidebar"
+msgstr "Показать область виджетов страницы отдельного товара"
+
+#: inc/customizer.php:225
+msgid "Scroll Top Settings"
+msgstr "Настройки прокрутки вверх"
+
+#: inc/customizer.php:149 inc/customizer.php:187 inc/customizer.php:251
+#: inc/customizer.php:323 inc/customizer.php:368 inc/customizer.php:396
+#: inc/customizer.php:520 inc/customizer.php:712 inc/customizer.php:743
+#: inc/customizer.php:774 inc/customizer.php:879 inc/customizer.php:910
+#: inc/customizer.php:941 inc/customizer.php:1119 inc/customizer.php:1187
+#: inc/customizer.php:1249 inc/customizer.php:1312 inc/customizer.php:1374
+#: inc/customizer.php:1421 inc/customizer.php:1514 inc/customizer.php:1586
+#: inc/customizer.php:1693 inc/customizer.php:1719
+msgid "Off"
+msgstr "Откл"
+
+#: inc/customizer.php:148 inc/customizer.php:186 inc/customizer.php:250
+#: inc/customizer.php:322 inc/customizer.php:367 inc/customizer.php:395
+#: inc/customizer.php:519 inc/customizer.php:711 inc/customizer.php:742
+#: inc/customizer.php:773 inc/customizer.php:878 inc/customizer.php:909
+#: inc/customizer.php:940 inc/customizer.php:1118 inc/customizer.php:1186
+#: inc/customizer.php:1248 inc/customizer.php:1311 inc/customizer.php:1373
+#: inc/customizer.php:1420 inc/customizer.php:1513 inc/customizer.php:1585
+#: inc/customizer.php:1692 inc/customizer.php:1718
+msgid "On"
+msgstr "Вкл"
+
+#: inc/customizer.php:67
+msgid "Typography Settings"
+msgstr "Параметры оформления"
+
+#: inc/customizer.php:1468
+msgid "RIGHT-ALIGN"
+msgstr "ВЫРАВНИВАНИЕ СЛЕВА"
+
+#: inc/customizer.php:1467
+msgid "CENTER-ALIGN"
+msgstr "ВЫРАВНИВАНИЕ ПО ЦЕНТРУ"
+
+#: inc/customizer.php:1466
+msgid "LEFT-ALIGN"
+msgstr "ВЫРАВНИВАНИЕ СПРАВА"
+
+#: inc/customizer.php:1463
+msgid "Slider Content Alignment"
+msgstr "Выравнивание содержимого слайдера"
+
+#: inc/customizer.php:365
+msgid "Show Shop Page Sidebar"
+msgstr "Показать область виджетов страницы магазина"
+
+#: inc/customizer.php:215
+msgid "LOWERCASE"
+msgstr "НИЖНИЙ РЕГИСТР"
+
+#: inc/customizer.php:214
+msgid "UPPERCASE"
+msgstr "ВЕРХНИЙ РЕГИСТР"
+
+#: inc/customizer.php:213
+msgid "CAPITALISE"
+msgstr "ПРОПИСНЫЕ БУКВЫ"
+
+#: inc/customizer.php:210
+msgid "Menus Text Transform"
+msgstr "Преобразование текста меню"
+
+#: inc/icon-picker.php:19
+msgctxt "placeholder"
+msgid "Icon"
+msgstr "Значок"
+
+#: inc/customizer.php:1184 inc/customizer.php:1246 inc/customizer.php:1309
+#: inc/customizer.php:1371
+msgid "Open link in a new tab"
+msgstr "Открывать в новой вкладке"
+
+#: inc/customizer.php:279
+msgid "Add Scroll Top Icon"
+msgstr "Добавьте значок Прокрутить вверх"
+
+#: inc/customizer.php:1653
+msgid "4 Column"
+msgstr "4 столбец"
+
+#: inc/customizer.php:1652
+msgid "3 Column"
+msgstr "3 столбец"
+
+#: inc/customizer.php:1651
+msgid "2 Column"
+msgstr "2 столбец"
+
+#: inc/customizer.php:1650
+msgid "1 Column"
+msgstr "1 столбец"
+
+#: inc/customizer.php:1645
+msgid "Footer Per Column"
+msgstr "Подвал на столбец"
+
+#: functions.php:291
+msgid "Footer "
+msgstr "Подвал "
+
+#: inc/customizer.php:269
+msgid "Left Align"
+msgstr "Выровнять по левому краю"
+
+#: inc/customizer.php:268
+msgid "Center Align"
+msgstr "Выровнять по центру"
+
+#: inc/customizer.php:267
+msgid "Right Align"
+msgstr "Выровнять по правому краю"
+
+#: inc/customizer.php:264
+msgid "Scroll Top Alignment"
+msgstr "Выравнивание прокрутки вверх"
+
+#: inc/customizer.php:248
+msgid "Show Scroll Top"
+msgstr "Показать прокрутку вверх"
+
+#: inc/customizer.php:556
+msgid "Container Fluid"
+msgstr "Растягивающийся контейнер"
+
+#: inc/customizer.php:555
+msgid "Container"
+msgstr "Контейнер"
+
+#: inc/customizer.php:554
+msgid "Fullwidth"
+msgstr "Во всю ширину"
+
+#: inc/customizer.php:530 inc/customizer.php:551
+msgid "Theme Width Option"
+msgstr "Параметры ширины темы"
+
+#: inc/customizer.php:90
+msgid "Select your suitable font for the body."
+msgstr "Выберите удобный шрифт для основной части."
+
+#: inc/customizer.php:78
+msgid "Select your suitable font for the headings."
+msgstr "Выберите удобный шрифт для заголовков."
+
+#: inc/customizer.php:23
+msgid "Typography"
+msgstr "Типографика"
+
+#: inc/dashboard/dashboard.php:5
+msgid "Theme Documentation"
+msgstr "Документация к теме"
+
+#: inc/dashboard/dashboard.php:115
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: inc/dashboard/dashboard.php:116
+msgid "Live Demo"
+msgstr "Демонстрация в реальном времени"
+
+#: inc/dashboard/dashboard.php:29
+msgid "Premium Organic Theme"
+msgstr "Тема Premium Organic"
+
+#: inc/dashboard/dashboard.php:107
+msgid "Add Product Page"
+msgstr "Добавить страницу товара"
+
+#: inc/dashboard/dashboard.php:106
+msgid "Go to dashboard >> Appearance >> Customize >> Product Settings >> Select Page."
+msgstr "Перейдите в консоль >> Внешний вид >> Настроить >> Настройки товара >> Выбрать страницу."
+
+#: inc/dashboard/dashboard.php:104
+msgid "Add Page >> Click on \"+\" Icon >> Search \"shortcode\" >> Click on shortcode block >> Add product shortcode >> Publish it."
+msgstr "Добавить страницу >> Нажмите на значок \"+\" >> Поиск \"шорткод\" >> Нажмите на блок шорткод >> Добавьте шорткод товара >> Опубликуйте его."
+
+#: inc/dashboard/dashboard.php:103
+msgid "Go to dashboard >> Page >> Add New page >> Add title, content, product shortcode >> Publish it."
+msgstr "Перейдите в консоль >> Страница >> Добавить новую страницу >> Добавить заголовок, содержимое, шорткод товара >> Опубликовать."
+
+#: inc/dashboard/dashboard.php:102
+msgid "4. Setup Products"
+msgstr "4. Установка товара"
+
+#: inc/dashboard/dashboard.php:100
+msgid "Add Services"
+msgstr "Добавить услуги"
+
+#: inc/dashboard/dashboard.php:99
+msgid "Go to dashboard >> Appearance >> Customize >> Services Settings >> Select post"
+msgstr "Перейдите в консоль >> Внешний вид >> Настроить >> Настройки служб >> Выберите запись"
+
+#: inc/dashboard/dashboard.php:97
+msgid "3. Setup Services"
+msgstr "3. Установка служб"
+
+#: inc/dashboard/dashboard.php:95
+msgid "Add Slider"
+msgstr "Добавить слайдер"
+
+#: inc/dashboard/dashboard.php:94
+msgid "Go to dashboard >> Appearance >> Customize >> Slider Settings >> Select post."
+msgstr "Перейдите в консоль >> Внешний вид >> Настроить >> Настройки слайдера >> Выбрать запись."
+
+#: inc/dashboard/dashboard.php:93 inc/dashboard/dashboard.php:98
+msgid "Go to dashboard >> Post >> Add New Post >> Add title, content and featured image >> Publish it."
+msgstr "Перейдите в консоль >> Записи >> Добавить новую запись >> Добавить заголовок, содержимое и изображение записи >> Опубликовать."
+
+#: inc/dashboard/dashboard.php:92
+msgid "2. Setup Slider"
+msgstr "2. Установка слайдера"
+
+#: inc/dashboard/dashboard.php:90 inc/dashboard/dashboard.php:105
+msgid "Add New Page"
+msgstr "Добавить страницу"
+
+#: inc/dashboard/dashboard.php:89
+msgid "Go to dashboard >> Pages >> Add New Page >> Select \"Custom Home Page\" from templates >> Publish it."
+msgstr "Перейдите в консоль >> Страницы >> Добавить новую страницу >> Выберите Пользовательская главную страницу из шаблонов >> Опубликовать."
+
+#: inc/dashboard/dashboard.php:88
+msgid "1. Setup Page"
+msgstr "1. Установка страницы"
+
+#: inc/dashboard/dashboard.php:86
+msgid "To step the home page follow the below steps."
+msgstr "Чтобы перейти на главную страницу, выполните следующие действия."
+
+#: inc/dashboard/dashboard.php:85
+msgid "Setup Home Page"
+msgstr "Установка главной страницы"
+
+#: inc/dashboard/dashboard.php:82
+msgid "Go to dashboard >> Appearance >> Customize >> Footer Text >> Add copyright text. >> "
+msgstr "Перейдите в консоль >> Внешний вид >> Настроить >> Текст подвала >> Добавить текст об авторских правах. >> "
+
+#: inc/dashboard/dashboard.php:81
+msgid "5. Setup Footer Text"
+msgstr "5. Установка текста подвала"
+
+#: inc/dashboard/dashboard.php:79
+msgid "Footer Widgets"
+msgstr "Виджеты подвала"
+
+#: inc/dashboard/dashboard.php:78
+msgid "Go to dashboard >> Appearance >> Widgets >> Add widgets in footer 1, footer 2, footer 3, footer 4. >> "
+msgstr "Перейдите в консоль >> Внешний вид >> Виджеты >> Добавьте виджеты в подвал 1, подвал 2, подвал 3, подвал 4. >> "
+
+#: inc/dashboard/dashboard.php:77
+msgid "5. Setup Footer"
+msgstr "5. Установка подвала"
+
+#: inc/dashboard/dashboard.php:75
+msgid "Add Social Icons"
+msgstr "Добавить значки соцсетей"
+
+#: inc/dashboard/dashboard.php:74
+msgid "Go to dashboard >> Appearance >> Customize >> Social Media >> Add social links."
+msgstr "Перейдите в консоль >> Внешний вид >> Настроить >> Соцсети >> Добавить ссылки на соцсети."
+
+#: inc/dashboard/dashboard.php:73
+msgid "4. Setup Social Icons"
+msgstr "4. Установка значков соцсетей"
+
+#: inc/dashboard/dashboard.php:71
+msgid "Add Menus"
+msgstr "Добавить меню"
+
+#: inc/dashboard/dashboard.php:70
+msgid "Go to dashboard >> Appearance >> Menus >> Create Menus >> Add pages, post or custom link then save it."
+msgstr "Перейдите в консоль >> Внешний вид >> Меню >> Создать меню >> Добавить страницы, опубликовать или пользовательскую ссылку, затем сохраните его."
+
+#: inc/dashboard/dashboard.php:69
+msgid "3. Setup Menus"
+msgstr "3. Установка меню"
+
+#: inc/dashboard/dashboard.php:67
+msgid "Add Contact Info"
+msgstr "Добавить контактную информацию"
+
+#: inc/dashboard/dashboard.php:66
+msgid "Go to dashboard >> Appearance >> Customize >> Contact info >> Add your phone number and email address."
+msgstr "Перейдите в консоль >> Внешний вид >> Настроить >> Контактная информация >> Добавьте свой номер телефона и адрес электронной почты."
+
+#: inc/dashboard/dashboard.php:65
+msgid "2. Setup Contact Info"
+msgstr "2. Установка контактной информации"
+
+#: inc/dashboard/dashboard.php:63
+msgid "Upload your logo"
+msgstr "Загрузить свой логотип"
+
+#: inc/dashboard/dashboard.php:62
+msgid "Go to dashboard >> Appearance >> Customize >> Site Identity >> Upload your logo or Add site title and site description."
+msgstr "Перейдите в консоль >> Внешний вид >> Настроить >> Свойства сайта >> Загрузите свой логотип или добавьте название сайта и описание сайта."
+
+#: inc/dashboard/dashboard.php:61
+msgid "1. Setup Logo"
+msgstr "1. Установка логотипа"
+
+#: inc/dashboard/dashboard.php:59
+msgid "To step the organic farm theme follow the below steps."
+msgstr "Чтобы перейти к теме organic farm, выполните следующие действия."
+
+#: inc/dashboard/dashboard.php:58 inc/dashboard/dashboard.php:117
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/dashboard/dashboard.php:49
+msgid "Review"
+msgstr "Отзыв"
+
+#: inc/dashboard/dashboard.php:48
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/dashboard/dashboard.php:44
+msgid "Version: "
+msgstr "Версия: "
+
+#: inc/dashboard/dashboard.php:26
+msgid "https://ovationthemes.com/docs/ot-organic-farm-pro-doc/"
+msgstr "https://ovationthemes.com/docs/ot-organic-farm-pro-doc/"
+
+#: inc/dashboard/dashboard.php:20
+msgid "https://www.ovationthemes.com/demos/organic-farm/"
+msgstr "https://www.ovationthemes.com/demos/organic-farm/"
+
+#: inc/dashboard/dashboard.php:17
+msgid "https://wordpress.org/support/theme/organic-farm/reviews/"
+msgstr "https://wordpress.org/support/theme/organic-farm/reviews/"
+
+#: inc/dashboard/dashboard.php:14
+msgid "https://wordpress.org/support/theme/organic-farm/"
+msgstr "https://wordpress.org/support/theme/organic-farm/"
+
+#: inc/customizer.php:1663
+msgid "Logo Width"
+msgstr "Ширина логотипа"
+
+#: inc/customizer.php:1716
+msgid "Show Site Tagline"
+msgstr "Показать описание сайта"
+
+#: inc/customizer.php:1690
+msgid "Show Site Title"
+msgstr "Показать заголовок сайта"
+
+#: inc/customizer.php:856
+msgid "6"
+msgstr "6"
+
+#: inc/customizer.php:855
+msgid "4"
+msgstr "4"
+
+#: inc/customizer.php:854
+msgid "3"
+msgstr "3"
+
+#: inc/customizer.php:853
+msgid "2"
+msgstr "2"
+
+#: inc/customizer.php:852
+msgid "1"
+msgstr "1"
+
+#: inc/customizer.php:847
+msgid "Grid Post Per Row"
+msgstr "Записи сеткой в строке"
+
+#: inc/customizer.php:656
+msgid "Change the post layout from below options"
+msgstr "Измените макет записи с помощью следующих опций"
+
+#: inc/customizer.php:645
+msgid "Post Layout"
+msgstr "Макет записи"
+
+#: inc/customizer.php:184
+msgid "Show Site Loader"
+msgstr "Показать анимацию загрузки"
+
+#: inc/customizer.php:146
+msgid "Show Sticky Header"
+msgstr "Показать прикрепленный заголовок"
+
+#: inc/customizer.php:113
+msgid "Theme General Settings"
+msgstr "Общие настройки темы"
+
+#: inc/customizer.php:1827
+msgid "Please review us if you love our product on %1$sWordPress.org%2$s. </br></br>  Thank You"
+msgstr "Пожалуйста, оцените нас, если вам нравится наш продукт, на %1$sWordPress.org%2$s.</br></br> Спасибо"
+
+#: inc/customizer.php:1821 inc/dashboard/dashboard.php:143
+msgid "Supper Fast"
+msgstr "Supper Fast"
+
+#: inc/customizer.php:1820 inc/dashboard/dashboard.php:142
+msgid "SEO Friendly"
+msgstr "Дружелюбный к SEO"
+
+#: inc/customizer.php:1819 inc/dashboard/dashboard.php:141
+msgid "Clean Code"
+msgstr "Чистый код"
+
+#: inc/customizer.php:1818 inc/dashboard/dashboard.php:140
+msgid "AMP Ready"
+msgstr "Готов к AMP"
+
+#: inc/customizer.php:1817 inc/dashboard/dashboard.php:139
+msgid "Live Customizer"
+msgstr "Визуальная настройка темы"
+
+#: inc/customizer.php:1816 inc/dashboard/dashboard.php:138
+msgid "10+ Sections"
+msgstr "Более 10-и разделов"
+
+#: inc/customizer.php:1815 inc/dashboard/dashboard.php:137
+msgid "Full Support"
+msgstr "Полная поддержка"
+
+#: inc/customizer.php:1814 inc/dashboard/dashboard.php:136
+msgid "Woo-commerce Compatible"
+msgstr "Совместимость с WooCommerce"
+
+#: inc/customizer.php:1813 inc/dashboard/dashboard.php:135
+msgid "WPML Compatible (Translation Ready)"
+msgstr "Совместим с WPML (готов к переводу)"
+
+#: inc/customizer.php:1812 inc/dashboard/dashboard.php:134
+msgid "Patterns Background"
+msgstr "Паттерны фона"
+
+#: inc/customizer.php:1811 inc/dashboard/dashboard.php:133
+msgid "Stylish Custom Widgets"
+msgstr "Стильные пользовательские виджеты"
+
+#: inc/customizer.php:1810 inc/dashboard/dashboard.php:132
+msgid "Detailed Documentation Included"
+msgstr "Подробная документация в комплекте"
+
+#: inc/customizer.php:1809 inc/dashboard/dashboard.php:131
+msgid "Cross Browser Support"
+msgstr "Поддержка кросс-браузерных технологий"
+
+#: inc/customizer.php:1808 inc/dashboard/dashboard.php:130
+msgid "Customizable Design & Code"
+msgstr "Настраиваемый дизайн и код"
+
+#: inc/customizer.php:1807 inc/dashboard/dashboard.php:129
+msgid "Designed with HTML5 and CSS3"
+msgstr "Разработано с использованием HTML5 и CSS3"
+
+#: inc/customizer.php:1806 inc/dashboard/dashboard.php:128
+msgid "Unlimited Color Options"
+msgstr "Неограниченная цветовая палитра"
+
+#: inc/customizer.php:1805 inc/dashboard/dashboard.php:127
+msgid "Multiple Blog Layouts"
+msgstr "Несколько макетов блога"
+
+#: inc/customizer.php:1804 inc/dashboard/dashboard.php:126
+msgid "Contact Page Template"
+msgstr "Шаблон страницы контактов"
+
+#: inc/customizer.php:1803 inc/dashboard/dashboard.php:125
+msgid "Section Reordering"
+msgstr "Переупорядочивание разделов"
+
+#: inc/customizer.php:1802 inc/dashboard/dashboard.php:124
+msgid "Demo Importer"
+msgstr "Импортер демонстраций"
+
+#: inc/customizer.php:1801 inc/dashboard/dashboard.php:123
+msgid "Shortcode Support"
+msgstr "Поддержка шорткода"
+
+#: inc/customizer.php:1800 inc/dashboard/dashboard.php:122
+msgid "Boxed or fullwidth layout"
+msgstr "Макет Блок или Во всю ширину"
+
+#: inc/customizer.php:1799 inc/dashboard/dashboard.php:121
+msgid "Responsive Design"
+msgstr "Адаптивный дизайн"
+
+#: inc/customizer.php:1797
+msgid "ORGANIC FARM PREMIUM - Features"
+msgstr "ORGANIC FARM PREMIUM - Функции"
+
+#: inc/customizer.php:1782 inc/dashboard/dashboard.php:23
+msgid "https://www.ovationthemes.com/wordpress/organic-farm-wordpress-theme/"
+msgstr "https://www.ovationthemes.com/wordpress/organic-farm-wordpress-theme/"
+
+#: inc/customizer.php:105
+msgid "ORGANIC FARM PREMIUM"
+msgstr "ORGANIC FARM PREMIUM"
+
+#: inc/customizer.php:96 inc/customizer.php:1791 inc/customizer.php:1825
+msgid "UPGRADE ORGANIC FARM PREMIUM"
+msgstr "ОБНОВИТЬ ДО ORGANIC FARM PREMIUM"
+
+#. translators: %s: search term
+#: search.php:24
+msgid "Results For: %s"
+msgstr "Результаты поиска: %s"
+
+#: template-parts/footer/site-info.php:17
+msgid "Organic Farm WordPress Theme"
+msgstr "Тема WordPress Органическая ферма"
+
+#: page-template/left-sidebar.php:41 page-template/right-sidebar.php:36
+#: page.php:38
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/navigation/navigation.php:21
+msgid "Close Menu"
+msgstr "Закрыть меню"
+
+#: template-parts/post/content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищите. Возможно, поможет поиск."
+
+#. translators: %s: Post editor URL.
+#: template-parts/post/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%s\">Начните здесь</a>."
+
+#: search.php:37
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/post/content-audio.php:39
+#: template-parts/post/content-gallery.php:33
+#: template-parts/post/content-image.php:44
+#: template-parts/post/content-quote.php:23
+#: template-parts/post/content-video.php:37 template-parts/post/content.php:29
+#: template-parts/post/grid-audio.php:52
+#: template-parts/post/grid-gallery.php:40
+#: template-parts/post/grid-image.php:58 template-parts/post/grid-quote.php:36
+#: template-parts/post/grid-video.php:51 template-parts/post/grid.php:42
+#: template-parts/post/single-page.php:35
+#: template-parts/post/single-page.php:104
+#: template-parts/post/single-page.php:173
+msgid "% Comments"
+msgstr "Комментарии %"
+
+#: template-parts/post/content-audio.php:39
+#: template-parts/post/content-gallery.php:33
+#: template-parts/post/content-image.php:44
+#: template-parts/post/content-quote.php:23
+#: template-parts/post/content-video.php:37 template-parts/post/content.php:29
+#: template-parts/post/grid-audio.php:52
+#: template-parts/post/grid-gallery.php:40
+#: template-parts/post/grid-image.php:58 template-parts/post/grid-quote.php:36
+#: template-parts/post/grid-video.php:51 template-parts/post/grid.php:42
+#: template-parts/post/single-page.php:35
+#: template-parts/post/single-page.php:104
+#: template-parts/post/single-page.php:173
+msgid "0 Comments"
+msgstr "Нет комментариев"
+
+#: functions.php:279
+msgid "Footer 4"
+msgstr "Подвал 4"
+
+#: functions.php:269
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+#: functions.php:259
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+#: functions.php:251 functions.php:261 functions.php:271 functions.php:281
+msgid "Add widgets here to appear in your footer."
+msgstr "Добавьте сюда виджеты для отображения в подвале."
+
+#: functions.php:249
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+#: functions.php:231
+msgid "Add widgets here to appear in your pages and posts"
+msgstr "Добавьте сюда виджеты для их помещения на страницы и записи"
+
+#: functions.php:229
+msgid "Page Sidebar"
+msgstr "Область виджетов страницы"
+
+#: functions.php:221 functions.php:241
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Добавьте сюда виджеты для их помещения в область виджетов в записях блога и страницах архива."
+
+#: functions.php:219
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: functions.php:182
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#. translators: %s: Name of current post
+#: functions.php:124
+msgid "Read More<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать далее<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должный войти на сайт, чтобы совершить покупку."
+
+#: index.php:37
+msgid "Posts"
+msgstr "Записи"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:37
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Изменить<span class=\"screen-reader-text\"> «%s»</span>"
+
+#: inc/template-tags.php:18
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:1753
+msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr "Выберите избранные страницы для каждой области из выпадающих списков. Добавьте изображение в раздел установив изображение записи в редакторе страницы. Пустые разделы не будут показаны."
+
+#. translators: %d is the front page section number
+#: inc/customizer.php:1752
+msgid "Front Page Section %d Content"
+msgstr "Содержимое %d раздела главной страницы"
+
+#: inc/customizer.php:1630
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: inc/customizer.php:1610 inc/dashboard/dashboard.php:83
+msgid "Footer Text"
+msgstr "Текст в подвале"
+
+#: inc/customizer.php:1597
+msgid "Select Product Page"
+msgstr "Выберите страницу товара"
+
+#: inc/customizer.php:1560
+msgid "Add New Page >> Add Title >> Add Shortcode \"\" >> Then Select the page in the below page dropdown."
+msgstr "Добавить новую страницу >> Добавить заголовок >> Добавить \"шорткод\" >> Затем выберите страницу в раскрывающемся списке ниже."
+
+#: inc/customizer.php:1550 inc/customizer.php:1559
+msgid "Product Settings"
+msgstr "Настройки товаров"
+
+#: inc/customizer.php:1488
+msgid "Image Dimension ( 80 x 80 ) px"
+msgstr "Размер изображения (80 x 80) px"
+
+#: inc/customizer.php:1477 inc/customizer.php:1487
+msgid "Services Settings"
+msgstr "Настройки услуг"
+
+#: inc/customizer.php:1443 inc/customizer.php:1535
+msgid "Select post"
+msgstr "Выбрать запись"
+
+#: inc/customizer.php:1432 inc/customizer.php:1524
+msgid "Select"
+msgstr "Выбрать"
+
+#: inc/customizer.php:1418
+msgid "Check To show Slider"
+msgstr "Отметьте, чтобы показать слайдер"
+
+#: inc/customizer.php:1394
+msgid "Slider Image Dimension ( 1400 x 650 ) px"
+msgstr "Размер изображения слайдера (1400 x 650) px"
+
+#: inc/customizer.php:1383 inc/customizer.php:1393
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:1093
+msgid "Add social media links in the below feilds"
+msgstr "Добавьте ссылки на соцсети в поля ниже"
+
+#: inc/customizer.php:1082
+msgid "Social Media"
+msgstr "Социальные сети"
+
+#: inc/customizer.php:1074
+msgid "Add Button Link"
+msgstr "Добавить ссылку кнопки"
+
+#: inc/customizer.php:1058
+msgid "Add Button Text"
+msgstr "Добавьте текст кнопки"
+
+#: inc/customizer.php:1034
+msgid "Add Phone Number"
+msgstr "Добавить номер телефона"
+
+#: inc/customizer.php:994
+msgid "Add Email Address"
+msgstr "Добавить email-адрес"
+
+#: inc/customizer.php:978 inc/customizer.php:1018
+msgid "Add Text"
+msgstr "Добавить текст"
+
+#: inc/customizer.php:967
+msgid "Add contact info in the below feilds"
+msgstr "Добавьте контактную информацию в поля ниже"
+
+#: inc/customizer.php:956
+msgid "Contact info"
+msgstr "Контактная информация"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Поиск"
+
+#. Template Name of the theme
+msgid "Right Sidebar Template"
+msgstr "Шаблон правой области виджетов"
+
+#. Template Name of the theme
+msgid "Left Sidebar Template"
+msgstr "Шаблон левой области виджетов"
+
+#. Template Name of the theme
+msgid "Custom Home Page"
+msgstr "Пользовательская главная страница"
+
+#: header.php:136 template-parts/navigation/navigation.php:11
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Похоже, что ничего не было найдено в этом месте. Может, попробовать поиск?"
+
+#: 404.php:17
+msgid "GO BACK"
+msgstr "ВЕРНУТЬСЯ НАЗАД"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: template-parts/post/single-page.php:65
+#: template-parts/post/single-page.php:135
+#: template-parts/post/single-page.php:203
+msgid "Next"
+msgstr "Далее"
+
+#: template-parts/post/single-page.php:65
+#: template-parts/post/single-page.php:135
+#: template-parts/post/single-page.php:203
+msgid "Next Post"
+msgstr "Следующая запись"
+
+#: template-parts/post/single-page.php:64
+#: template-parts/post/single-page.php:134
+#: template-parts/post/single-page.php:202
+msgid "Previous"
+msgstr "Назад"
+
+#: template-parts/post/single-page.php:64
+#: template-parts/post/single-page.php:134
+#: template-parts/post/single-page.php:202
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+#: template-parts/post/post-layout.php:30
+#: template-parts/post/post-layout.php:59
+#: template-parts/post/post-layout.php:86
+#: template-parts/post/post-layout.php:114
+#: template-parts/post/post-layout.php:143
+#: template-parts/post/post-layout.php:172
+#: template-parts/post/post-layout.php:201
+#: template-parts/post/post-layout.php:228
+msgid "Page"
+msgstr "Страница"
+
+#: template-parts/post/post-layout.php:29
+#: template-parts/post/post-layout.php:58
+#: template-parts/post/post-layout.php:85
+#: template-parts/post/post-layout.php:113
+#: template-parts/post/post-layout.php:142
+#: template-parts/post/post-layout.php:171
+#: template-parts/post/post-layout.php:200
+#: template-parts/post/post-layout.php:227
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: template-parts/post/post-layout.php:28
+#: template-parts/post/post-layout.php:57
+#: template-parts/post/post-layout.php:84
+#: template-parts/post/post-layout.php:112
+#: template-parts/post/post-layout.php:141
+#: template-parts/post/post-layout.php:170
+#: template-parts/post/post-layout.php:199
+#: template-parts/post/post-layout.php:226
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:27
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:22
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#. Theme URI of the theme
+#. translators: %s: Organic Farm WordPress Theme.
+#: template-parts/footer/site-info.php:16
+msgid "https://www.ovationthemes.com/wordpress/free-organic-wordpress-theme/"
+msgstr "https://www.ovationthemes.com/wordpress/free-organic-wordpress-theme/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.ovationthemes.com/"
+msgstr "https://www.ovationthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "pewilliams"
+msgstr "pewilliams"
